@@ -1,0 +1,9 @@
+Forward Prop 
+Backward Prop
+Multi layer 
+CNN
+RNN 
+LSTM 
+
+
+
